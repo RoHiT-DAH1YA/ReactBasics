@@ -1,0 +1,24 @@
+.container{
+    margin-top:90px;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    gap:100px;
+}
+
+.home_page_options{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+
+.home_page_options Button:hover{
+    background-color: rgb(40, 40, 40);
+}
+
+
+.dice_game_text{
+    margin: 36px 0px;
+    width: 528px;
+}
